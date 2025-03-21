@@ -34,11 +34,11 @@ This PR introduces the "Add to Cart" functionality in the e-commerce application
 2. Go to the homepage and select a product.  
 3. Click **"Add to Cart"** and verify that the item appears in the cart.  
 
-## ✅ Checklist  
+## ✅ Checklists  
 - [x] Code follows the project guidelines.  
 - [x] Unit tests have been added.  
 - [x] API calls are working correctly.  
 
 ## 🔗 Related Issues  
-Closes #15
+Closes #15 
 
